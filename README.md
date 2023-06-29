@@ -1,1 +1,2 @@
-# News-App
+# NewsJunkie.
+NewsJunkie , A full fledged responsive News Web Application that fetches news through a REST API Key by newsapi. The Web app is responsive and quick, taking less than 3 secs to make a call and bring the news to the user. NewsJunkie also helps the user to redirect them directly to the Source News Website whilst also displaying the date and time of the article published. The User can search from possibly every field they are interested to know the news from.
